@@ -1,3 +1,6 @@
+# Programa dos dados 
+# Anthony Henrique Dias de Jesus <anthonyhenriquediasdejesus@gmail.com>
+
 from random import randint
 
 print("jogo dos dados")
