@@ -1,4 +1,4 @@
-xfrom random import randint
+from random import randint
 
 print("jogo dos dados")
 
